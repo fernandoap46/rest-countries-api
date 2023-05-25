@@ -1,0 +1,27 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: var(--font-family);
+    font-weight: normal;
+    background: none;
+    color: var(--text-color);
+    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.card {
+    background: none;
+    
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.Toggle {
+    /* all: unset !important; */
+    background: none !important;
+    border: none !important;
+    border-color: none  !important;
+}
