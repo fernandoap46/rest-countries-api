@@ -1,0 +1,55 @@
+.p-card-content{
+    padding: 0 !important;
+   
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden !important; 
+  }
+  .country-card{
+    all: unset;
+    display: inline-block;
+    flex-direction: row;
+    width: 265px !important;
+    height: 340px !important;  
+  }
+  .card-content {
+    height: 340px !important;   
+  }
+  .card-content img{
+    all: unset;  
+    width: 265px !important;
+    height: 150px !important; 
+    border-bottom: solid 1px #e7e7e77e;
+  }
+  .paragrafo p{
+    padding-left: 15px !important; 
+    margin: 5px;  
+  }
+  
+  .paragrafo h3{
+    padding-left: 15px !important;   
+  }
+  .p-card-body{
+    all: unset !important;
+    width: 100%;
+    height: 100%;
+  }
+  .card-container{
+    display: grid;
+    grid-template-columns: repeat(4, 265px);
+    gap: 40px !important;  
+  }
+  
+  
+  
+  .search{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
+  .inouta{
+    width: 390px;
+  }
