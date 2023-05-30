@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Dialog } from "primereact/dialog";
 import { Button } from "primereact/button";
-import data from "../../../data.json";
+import data from "../../data.json";
 import ToggleButton from "./ToggleButton";
 import "./CountryModal.css";
 

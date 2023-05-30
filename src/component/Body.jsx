@@ -4,7 +4,7 @@ import { Card } from "primereact/card";
 import { Dropdown } from "primereact/dropdown";
 import { InputText } from "primereact/inputtext";
 import CountryModal from "./CountryModal";
-import data from "../../../data.json";
+import data from "../../data.json";
 
 export default function CountryCards() {
   const [countries, setCountries] = useState([]); // Lista de países obtidos da API ou arquivo JSON
