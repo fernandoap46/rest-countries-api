@@ -1,3 +1,5 @@
+
+
 .p-card-content{
     padding: 0 !important;
    
@@ -37,7 +39,7 @@
   .card-container{
     display: grid;
     grid-template-columns: repeat(4, 265px);
-    gap: 40px !important;  
+    gap: 75px !important;  
   }
   
   
@@ -48,8 +50,20 @@
     text-align: center;
     align-items: center;
     margin-bottom: 50px;
+    
   }
   
-  .inouta{
+  .inputTxt{
+    
     width: 390px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    border: none !important;
+    outline: none !important;
+   
+    
+    
   }
+.drop{
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    border: none !important;
+}

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
+
 .menu-bar {
    
     display: flex;
@@ -10,8 +13,17 @@
     position: fixed;
     top: 0;
     left: 0;
+    font-family: 'Nunito Sans', sans-serif;
+
+    border-bottom: solid 1px rgb(236, 230, 230);
+    
+
+    
   }
   
   .menu-item {
     margin-right: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
     }
