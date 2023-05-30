@@ -12,7 +12,7 @@
 
 .corpoModal {
   display: flex;
-  align-items: center;
+  
 }
 
 .imgModal {
@@ -63,6 +63,7 @@
   margin-top: none !important;
   height: 32px !important;
   font-size: 14px;
+  margin: 5px;
 }
 
 .p-dialog .p-dialog-header {
@@ -70,7 +71,7 @@
 
 }
 
-.p-button.p-button-secondary.p-button-text{
+/* .p-button.p-button-secondary.p-button-text{
     margin-top: 80px;
    
-}
+} */

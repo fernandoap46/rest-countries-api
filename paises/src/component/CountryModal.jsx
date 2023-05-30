@@ -141,7 +141,7 @@ const CountryModal = ({ country, onHide }) => {
               raised
               icon="pi pi-arrow-left"
               label="Back"
-              className="p-button-text"
+              className="p-button-texta"
               onClick={handleCloseModal}
             />
           </div>
